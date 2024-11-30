@@ -139,7 +139,7 @@ function App() {
                 color: '#000',
               }}
             >
-              Typing...
+              Loading...
             </Typography>
           </Box>
         )}
